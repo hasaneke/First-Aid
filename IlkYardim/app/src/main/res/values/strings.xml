@@ -1,0 +1,70 @@
+
+<resources>
+    <string name = "app_name">Ilk Yardım</string>
+    <string-array name="first_aid">
+        <item><![CDATA[<p>Müdahele etmeden önce, kalp atışı olup olmadığı, nefes alıp almadığı kontrol edilerek, hemen 112 acil servis aranmalıdır.</p>
+                       <h3>Hastanın Bilinci Açıksa</h3><br>
+                       <ul><li> Öncelikle sakin davranmalı, karşınızdaki kişiyi de sakinleştirmeye çalıştırmalısınız.</li><li> Hasta uygun bir yere yatırılıp, rahat nefes alması sağlanmalıdır.</li><li> Üstündeki dar, sıkan elbiseler gevşetilmelidir.</li><li> Kalbe kan dolaşımını arttırmak için ayaklarını kalp seviyesine kadar kaldırmak gereklidir.</li><li> Kalp için kullandığı bir ilaç varsa o ya da 1 tane aspirin verilmelidir.</li><li> Bulunduğunuz ortam havasızsa, pencere veya kapıları açıp içeriye oksijen girmesini sağlayın.</li></ul>
+                       <h3>Kalp atışı yoksa;</h3>
+                       <ul><li> Kalp atışı geri gelene kadar kalp masajı yapılmalıdır.</li><li> Solunum da yoksa suni solunum yapılır.</li><li> Solunum ve dolaşım gelince müdahaleye son verilip, sağlık ekibi gelene kadar hasta göz ile kontrol altına alınır.</li></ul>
+               ]]>
+        </item>
+        <item>
+            <![CDATA[<h3>Heimlich Manevrası<h3>
+                                               <h3> Yalnız değilseniz </h3>
+                                               <li> Öncelikle sakin davranmalı, boğazına cisim kaçan kişiyi arkadan kucaklar gibi sarın</li>
+                                               <li> Bir elimizin başparmağını, boğulan kişiyi gösterecek şekilde tutularak yumruk yapılır ve diğer elimizle onun üzerine destek yapıp tam diyaframın (göbek deliği ile göğüs kafesinin tam ortası) üstüne kuvvetli bir şekilde bastırılıp yukarı çekilir</li>
+
+                                               <h3> Yalnızsanız </h3>
+                                               <li> Sandalye, koltuk veya herhangi büyük ve sert bir nesneye diyaframınızı dayayın, nesneyi sabit tutarak diyaframınızı kuvvetle bastırın </li>
+                    ]]>
+        </item>
+        <item><![CDATA[<strong>Önce nabız kontrolü yapın!</strong>
+                        <h3>Yalnızsanız ve Bayılmak Üzereyseniz</h3>
+                        <li>Sırt üstü yatın ve ayaklarınızı 30 cm kadar yukarı kaldırın, kendinize kısa süre içerisinde gelebilirsiniz</li>
+
+                        <h3>Birine müdahale edecekseniz</h3>
+                        <li>Öncelikle kalabalık varsa kalabalığı dağıtın ve kişiyi yere yatırın</li>
+                        <li>Bayılan kişinin üzerindeki kravat, düğme ve kemeri varsa gevşetin</li>
+                        <li>Kişinin ayaklarını 30 cm havaya kaldırıp kendine gelene kadar o şekilde tutun</li>
+                        <li>Başını kusma ihtimaline karşı yan çevirin</li>
+                        <li>Vücut ısısını kontrol edin, eğer soğumuşsa üzerine ıstacak şeyler koyun</li>
+                        ]]></item>
+        <item><![CDATA[<h3>Kesinlikle kımıldatmayın(Kol içindir)</h3>
+                       <li>Büyük bir bez bulun</li>
+                       <li>Bez`i kırık kolun zıt tarafındaki omuza koltuk altından dolayın</li>
+                       <li>Kırık kolu karnınızın üzerine sol veya sağ tarafa bakacak şekilde yerleştirin</li>
+                       <li>Bezi bu kol üzerinden diğer omuza dolayın</li>
+                       <li>Arkada bir araya gelmiş olan bez kollarını bağlayın</li>
+                       <li>Bu şekilde hastaneye götürebilirsiniz</li>
+        ]]></item>
+        <item><![CDATA[ <strong>Kesik çok derinse öncelikle ambulans çağırın</strong>
+                        <li>Kanayan yeri iyice temizleyin</li>
+                        <li>Temizledikten sonra temiz bir bez bulup kanayan yere bastırın</li>
+                        <li>O bezi herhangi bir ip ya da başka bir bez yardımıyla düşmeyecek şekilde sarın</li>
+                        <li>Kanayan yeri kanama durana kadar havada tutun</li>]]>
+        </item>
+        <item><![CDATA[<strong>Hemen ambulansı arayın!</strong>
+                       <li>Sırt üstü yatırın</li>
+                       <li>Eğer cisim halen saplıysa kesinlikle çıkarmaya çalışmayın ve temiz bezi veya sargıyı cismin etrafından sarın, cismi oynatmayın</li>
+                       <li>Saplı değilse yarayı temiz bir sargı veya bezle kapatın ve kanama çok fazlaysa üstüne bastırın</li>
+                       <li>Kalabalık varsa dağıtın</li>
+                       <li>Yaralının üzerini örtün ve ambulansın gelmesini bekleyin</li>]]>
+        </item>
+        <item><![CDATA[<strong>Bu durumlarda hemen ambulansı arayın!</strong>
+                        <li>Hasta suda nöbet geçirdiyse</li>
+                        <li>Kişi yaralanmışsa, gebe ise veya diyabetik ise</li>
+                        <li>Nöbet 5 dakikadan daha uzun süredir devam ediyorsa</li>
+                        <li>İkinci nöbet, ilk nöbet bittikten çok kısa bir süre sonra başlıyorsa</li>
+                        <li>Kasılmalar bittikten sonra kişinin bilinci açılmıyorsa</li>
+                        <h3>Ilk Yardım:</h3>
+                        <strong>Öncelikle sakin olun, hastanın yanından ayrılmayın, yardıma gerek varsa başkasını gönderin</strong>
+                        <li>Hastanın hareketlerini durdurmaya VE/VEYA engellemeye çalışmayın!</li>
+                        <li>Hastayı güvenli bir yere yatırın veya alın</li>
+                        <li>Sıkı giysileri varsa giysilerini gevşetin (kravat, kemer gibi), şayet takıyorsa gözlüğünü çıkartın</li>
+                        <li>Sabit ve rahat olacak bir şekilde onu bir tarafa doğru yatırıp, tükürüğünün dışarı akması sağlayın. Rahat nefes alması için mümkünse ağzını ve solunum yolunu açık tutun!</li>
+                        <li>Soğan, kolonya vb. şeyler koklatmayın!</li>
+                        <li>Nöbet sırasında ilaç vermeye çalışmayın</li>
+                        <li>Nöbetinin bitmesini bekleyin!</li>]]></item>
+    </string-array>
+</resources>
