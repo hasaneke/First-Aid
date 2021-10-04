@@ -11,5 +11,4 @@ Google Play link:  https://play.google.com/store/apps/details?id=com.hasaneke.il
 
 
 
-If this repository could be any use for your projects, you can support me by buying a cup of coffee for my school expenses, Thank you :)
 
